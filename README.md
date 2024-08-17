@@ -17,3 +17,6 @@
 
 ## run
 - pnpm run dev
+
+## リモートとの紐付け解除
+- git remote remove origin
